@@ -1,0 +1,19 @@
+hr{
+    width: 150px;
+    border: 1px solid black;
+    margin: 0px;
+}
+
+.imagen	{
+	position: relative;
+	display: inline-block;
+	margin: 10px;
+background: rgba(76,76,76,1);
+}
+
+.nombre	{
+	position: absolute;
+	bottom: 10px;
+	left: 70px;
+	color: white;
+}
