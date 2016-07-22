@@ -1,6 +1,6 @@
 hr{
-    width: 150px;
-    border: 1px solid black;
+    width: 100px;
+    border: 2px solid black;
     margin: 0px;
 }
 
@@ -8,7 +8,8 @@ hr{
 	position: relative;
 	display: inline-block;
 	margin: 10px;
-background: rgba(76,76,76,1);
+	filter: brightness(60%);
+	-webkit-filter: brightness(60%);
 }
 
 .nombre	{
