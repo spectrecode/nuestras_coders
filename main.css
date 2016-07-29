@@ -1,7 +1,26 @@
-hr{
+* {
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: arial;	
+}
+
+.contenedor {
+	margin: 0 auto;
+	width: 800px;
+}
+
+h3 {
+	margin: 10px;
+}
+
+hr {
     width: 100px;
     border: 2px solid black;
-    margin: 0px;
+    margin: 10px;
 }
 
 .imagen	{
